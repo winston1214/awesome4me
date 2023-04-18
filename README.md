@@ -1,4 +1,4 @@
-# awesome4me
+# awesome4me (Paper and Code)
 
 ### Image to Image Translation
 
@@ -19,3 +19,8 @@
 - <a href='https://arxiv.org/abs/2209.07522'>Test-Time Training with Masked Autoencoders</a>
 #### 2019
 - <a href='https://arxiv.org/abs/1907.07484'>Benchmarking Robustness in Object Detection: Autonomous Driving when winter is coming</a>
+
+### CLIP code
+
+- <a href='https://github.com/kuai-lab/sound-guided-semantic-image-manipulation/blob/main/soundclip/train.py'>CLIP Training</a> (not official but easy reference code)
+- <a href='https://github.com/mlfoundations/open_clip'>Open CLIP</a> (semi official)
