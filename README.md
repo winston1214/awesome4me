@@ -12,6 +12,9 @@
 ### Image Synthesis
 #### 2023
 - <a href='https://arxiv.org/abs/2302.10167'>Cross-domain Compositing with Pretrained Diffusion Models</a>
+#### 2021
+- <a href='https://arxiv.org/pdf/2108.03647'>AdaAttN: Revisit Attention Mechanism in Arbitrary Neural Style Transfer</a>
+
 ### Robust Model (Augmentation, Domain shift, etc..)
 #### 2023
 - <a href='https://arxiv.org/pdf/2304.08466.pdf'>Synthetic Data from Diffusion Models Improves ImageNet Classification</a>
