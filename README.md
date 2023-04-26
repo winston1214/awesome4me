@@ -21,6 +21,12 @@
 #### 2019
 - <a href='https://arxiv.org/abs/1907.07484'>Benchmarking Robustness in Object Detection: Autonomous Driving when winter is coming</a>
 
+### Sign Language
+
+#### 2022
+- <a href='https://openaccess.thecvf.com/content/CVPR2022/papers/Yin_MLSLT_Towards_Multilingual_Sign_Language_Translation_CVPR_2022_paper.pdf'>MLSLT: Towards Multilingual Sign Language Translation
+</a>
+
 ### CLIP code
 
 - <a href='https://github.com/kuai-lab/sound-guided-semantic-image-manipulation/blob/main/soundclip/train.py'>CLIP Training</a> (not official but easy reference code)
