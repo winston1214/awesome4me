@@ -29,5 +29,6 @@
 
 ### CLIP code
 
+- <a href='https://github.com/openai/CLIP/tree/a9b1bf5920416aaeaec965c25dd9e8f98c864f16/clip'>CLIP</a> (Official)
 - <a href='https://github.com/kuai-lab/sound-guided-semantic-image-manipulation/blob/main/soundclip/train.py'>CLIP Training</a> (not official but easy reference code)
 - <a href='https://github.com/mlfoundations/open_clip'>Open CLIP</a> (semi official)
