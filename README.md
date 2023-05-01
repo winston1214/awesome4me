@@ -14,6 +14,8 @@
 #### 2023
 - <a href='https://arxiv.org/pdf/2304.09728'>Any-to-Any Style Transfer: Making Picasso and Da Vinci Collaborate</a>
 - <a href='https://arxiv.org/abs/2302.10167'>Cross-domain Compositing with Pretrained Diffusion Models</a>
+#### 2022
+- <a href='https://arxiv.org/abs/2111.14818'>Blended Diffusion for Text-driven Editing of Natural Images</a>
 #### 2021
 - <a href='https://arxiv.org/pdf/2108.03647'>AdaAttN: Revisit Attention Mechanism in Arbitrary Neural Style Transfer</a>
 
