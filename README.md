@@ -8,7 +8,8 @@
 
 #### 2022
 - <a href='https://arxiv.org/pdf/2301.04685v1.pdf'>SHUNIT: Style Harmonization for Unpaired Image-to-Image Translation</a>
-- <a href='https://arxiv.org/pdf/2210.05559.pdf'>Unifying Diffusion Model’ Latent Space, With Aapplications to Cyclediffusion and guidance
+- <a href='https://arxiv.org/pdf/2210.05559.pdf'>Unifying Diffusion Model’ Latent Space, With Aapplications to Cyclediffusion and guidance</a>
+- <a href='https://arxiv.org/abs/2209.15264'>Diffusion-based Image Translation using Disentangled Style and Content Representation</a>
 
 ### Image Synthesis
 #### 2023
