@@ -7,6 +7,7 @@
 [<a href='https://github.com/ZeConloss/ZeCon/tree/main/guided_diffusion'>code</a>]
 
 #### 2022
+- <a href='https://openaccess.thecvf.com/content/CVPR2022/papers/Tumanyan_Splicing_ViT_Features_for_Semantic_Appearance_Transfer_CVPR_2022_paper.pdf'>Splicing ViT Features of Semantic Apperance Transfer</a>
 - <a href='https://arxiv.org/pdf/2301.04685v1.pdf'>SHUNIT: Style Harmonization for Unpaired Image-to-Image Translation</a>
 - <a href='https://arxiv.org/pdf/2210.05559.pdf'>Unifying Diffusion Model’ Latent Space, With Aapplications to Cyclediffusion and guidance</a>
 - <a href='https://arxiv.org/abs/2209.15264'>Diffusion-based Image Translation using Disentangled Style and Content Representation</a>
