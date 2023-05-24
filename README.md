@@ -30,6 +30,13 @@
 #### 2019
 - <a href='https://arxiv.org/abs/1907.07484'>Benchmarking Robustness in Object Detection: Autonomous Driving when winter is coming</a>
 
+### Augmentation with generative image
+#### 2023
+- <a href='https://arxiv.org/abs/2302.07944?fbclid=IwAR296TpG-ehDiTXyWFIIrxcrRFlVyA1Xt6zHyftWqgCrSfxb0_-izsZ-kAE'>Effective Data Augmentation with Diffusion Models</a>
+
+#### 2018
+- <a href='https://arxiv.org/abs/1810.10863'>GAN Augmentation: Augmenting Training Data using Generative Adversarial Networks</a>
+
 ### Sign Language
 
 #### 2022
