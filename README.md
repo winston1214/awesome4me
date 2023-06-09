@@ -14,6 +14,7 @@
 
 ### Image Synthesis
 #### 2023
+- <a href='https://arxiv.org/abs/2305.16223'>Prompt-Free Diffusion: Taking "Text" out of Text-to-Image Diffusion Models</a>
 - <a href='https://arxiv.org/pdf/2304.09728'>Any-to-Any Style Transfer: Making Picasso and Da Vinci Collaborate</a>
 - <a href='https://arxiv.org/abs/2302.10167'>Cross-domain Compositing with Pretrained Diffusion Models</a>
 #### 2022
