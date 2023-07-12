@@ -3,6 +3,7 @@
 ### Image to Image Translation
 
 #### 2023
+- <a href='https://arxiv.org/abs/2306.04396'>Improving Diffusion-based Image Translation using Asymmetric Gradient Guidance</a>
 - <a href='https://arxiv.org/abs/2303.08622'>Zero-Shot Contrastive loss for Text guided diffusion image style transfer</a>
 [<a href='https://github.com/ZeConloss/ZeCon/tree/main/guided_diffusion'>code</a>]
 
@@ -18,6 +19,7 @@
 - <a href='https://arxiv.org/pdf/2304.09728'>Any-to-Any Style Transfer: Making Picasso and Da Vinci Collaborate</a>
 - <a href='https://arxiv.org/abs/2302.10167'>Cross-domain Compositing with Pretrained Diffusion Models</a>
 #### 2022
+- <a href='https://arxiv.org/abs/2206.02779'>Blended Latent Diffusion</a>
 - <a href='https://arxiv.org/abs/2111.14818'>Blended Diffusion for Text-driven Editing of Natural Images</a>
 #### 2021
 - <a href='https://arxiv.org/pdf/2108.03647'>AdaAttN: Revisit Attention Mechanism in Arbitrary Neural Style Transfer</a>
